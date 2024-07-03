@@ -3,7 +3,7 @@ Y. Sun, L. Cai, B. Liao and W. Zhu, "Minority Sub-region Estimation-based Oversa
 
 MainFunction_fig4.m：the main function to run, corresponding to the result in  fig.4  of above paper
 
-the DDMSE algorithm is consisted by three function including MajorityreferencePointSelection.m，AreaCluster.m and SameDirection_p_to_i.m
+the DDMSE algorithm is consisted by three functions including MajorityreferencePointSelection.m，AreaCluster.m and SameDirection_p_to_i.m
 
 another file: 
 Square: one two-dimension dataset for display

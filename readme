@@ -7,6 +7,5 @@ the DDMSE algorithm is consisted by three functions including MajorityreferenceP
 
 another file: 
 Square: one two-dimension dataset for display
-DBSCAN.m hierarchicalClustering.m：two  clustering algorithm for comparison
-hierarchicalClustering.m：
+DBSCAN.m and hierarchicalClustering.m：two  clustering algorithm for comparison
 PlotClusterinResult.m：the function is used to plot the clustering result.

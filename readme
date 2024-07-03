@@ -1,4 +1,4 @@
-please refer: 
+please cite: 
 Y. Sun, L. Cai, B. Liao and W. Zhu, "Minority Sub-region Estimation-based Oversampling for Imbalance Learning," in IEEE Transactions on Knowledge and Data Engineering, 34 (5): 2324-2334, 2022.
 
 MainFunction_fig4.m：the main function to run, corresponding to the result in  fig.4  of above paper
